@@ -13,10 +13,10 @@
 - Linkedin: JoaoB-Alves
 
 Certificados de cursos relacionados:
-[certificado (lógica).pdf](https://github.com/JoaoB-Alves/JoaoB-Alves/files/9538496/certificado.logica.pdf)
-[João BatistaAlves Ferreira-ST - 2021 APP733-certificate.pdf](https://github.com/JoaoB-Alves/JoaoB-Alves/files/9538497/Joao.BatistaAlves.Ferreira-ST.-.2021.APP733-certificate.pdf)
-[João BatistaAlves Ferreira-ST - 2021 APP729-certificate.pdf](https://github.com/JoaoB-Alves/JoaoB-Alves/files/9538498/Joao.BatistaAlves.Ferreira-ST.-.2021.APP729-certificate.pdf)
-[certificado.pdf](https://github.com/JoaoB-Alves/JoaoB-Alves/files/9538499/certificado.pdf)
+(https://github.com/JoaoB-Alves/JoaoB-Alves/files/9538496/certificado.logica.pdf)
+(https://github.com/JoaoB-Alves/JoaoB-Alves/files/9538497/Joao.BatistaAlves.Ferreira-ST.-.2021.APP733-certificate.pdf)
+(https://github.com/JoaoB-Alves/JoaoB-Alves/files/9538498/Joao.BatistaAlves.Ferreira-ST.-.2021.APP729-certificate.pdf)
+(https://github.com/JoaoB-Alves/JoaoB-Alves/files/9538499/certificado.pdf)
 
 
 <!---
