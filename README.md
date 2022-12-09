@@ -6,18 +6,11 @@
 
 💞️ Pretendo colaborar em um ambiente onde possa ganhar experiência e vivenciar o ambiente profissional, aprender, evoluir e me conhecer melhor em um ambiente onde há uma certa pressão, pois sei que é necessário estar sempre se atualizando e aprendendo coisas novas.
 
-- 📫 Se achar graça aos olhos de alguém, e caso queira me contatar, estou sempre disposto em:
+- 📫 Caso queira me contatar, estou sempre disposto em:
 - Portfolio: www.meuportifolio.com.br
 - E-mail: joao585.bsb@gmail.com
 - Github: JoaoB-Alves
-- Linkedin: JoaoB-Alves
-
-Certificados de cursos relacionados:
-(https://github.com/JoaoB-Alves/JoaoB-Alves/files/9538496/certificado.logica.pdf)
-(https://github.com/JoaoB-Alves/JoaoB-Alves/files/9538497/Joao.BatistaAlves.Ferreira-ST.-.2021.APP733-certificate.pdf)
-(https://github.com/JoaoB-Alves/JoaoB-Alves/files/9538498/Joao.BatistaAlves.Ferreira-ST.-.2021.APP729-certificate.pdf)
-(https://github.com/JoaoB-Alves/JoaoB-Alves/files/9538499/certificado.pdf)
-
+- Linkedin: linkedin.com/in/joão-batista-09319b207
 
 <!---
 JoaoB-Alves/JoaoB-Alves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
