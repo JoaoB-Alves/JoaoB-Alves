@@ -10,7 +10,7 @@
 - Portfolio: www.meuportifolio.com.br
 - E-mail: joao585.bsb@gmail.com
 - Github: JoaoB-Alves
-- Linkedin: linkedin.com/in/joão-batista-09319b207
+- Linkedin: www.linkedin.com/in/joão-batista-09319b207
 
 <!---
 JoaoB-Alves/JoaoB-Alves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
